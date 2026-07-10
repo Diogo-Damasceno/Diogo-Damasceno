@@ -65,7 +65,7 @@ Suíte de ferramentas de segurança construídas do zero, cada uma com testes au
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diogo-Damasceno&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Diogo-Damasceno&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
