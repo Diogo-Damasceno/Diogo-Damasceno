@@ -58,7 +58,17 @@ Suíte de ferramentas de segurança construídas do zero, cada uma com testes au
 ---
 
 ### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diogo-Damasceno&show_icons=true&theme=tokyonight)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogo-Damasceno&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Damasceno&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Diogo-Damasceno&theme=tokyonight"/>
+</p>
 ---
 
 <p align="center"><i>"Para defender, primeiro é preciso entender como se ataca."</i></p>
