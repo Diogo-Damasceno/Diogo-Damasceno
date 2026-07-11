@@ -12,6 +12,11 @@
 
 </div>
 
+> ## 🌐 PORTFÓLIO COMPLETO: https://diogo-damasceno.github.io/projview/
+> Todos os meus projetos com **testes ao vivo**, **explicação** e **diagrama de algoritmo** — num só site.
+>
+> [![Ver site](https://img.shields.io/badge/GitHub%20Pages-ver%20portfólio-blue?style=for-the-badge)](https://diogo-damasceno.github.io/projview/)
+
 ---
 
 ## 🧑‍💻 Sobre mim
