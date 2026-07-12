@@ -36,15 +36,16 @@ Suíte de ferramentas de segurança construídas do zero, cada uma com testes au
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [🔑 password-auditor](https://github.com/Diogo-Damasceno/password-auditor) | Auditor de qualidade de senhas: entropia, tempo de quebra, reuso | Python |
-| [🛰️ network-scanner](https://github.com/Diogo-Damasceno/network-scanner) | Scanner de rede: hosts, portas, SO, relatório HTML | Python · SQLite · Rich |
-| [🍯 honeypot](https://github.com/Diogo-Damasceno/honeypot) | Honeypot SSH/HTTP que registra e analisa ataques | Python · SQLite |
-| [🎣 phishing-detector](https://github.com/Diogo-Damasceno/phishing-detector) | Detector de phishing por análise heurística de URLs | Python |
-| [🔬 malware-analyzer](https://github.com/Diogo-Damasceno/malware-analyzer) | Análise estática de malware: hashes, entropia, IOCs, APIs | Python |
-| [🛡️ host-ids](https://github.com/Diogo-Damasceno/host-ids) | IDS de host: processos, conexões, integridade de arquivos | Python · /proc |
-| [🌐 threat-intel](https://github.com/Diogo-Damasceno/threat-intel) | Threat Intelligence Platform de IOCs com API REST | Python · SQLite |
-| [📊 mini-siem](https://github.com/Diogo-Damasceno/mini-siem) | Mini-SIEM: ingestão, correlação e detecção em logs | Python · SQLite |
-| [🤖 pentest-agent](https://github.com/Diogo-Damasceno/pentest-agent) | Agente de pentest autônomo com IA (recon autorizado) | Python · LLM |
+| [🧬 warden-codec](https://github.com/Diogo-Damasceno/warden-codec) | Codifica/decodifica payloads em base64/hex/url para análise segura | Python |
+| [⚡ xssmith](https://github.com/Diogo-Damasceno/xssmith) | Forja/ofusca payloads XSS para testes de WAF/input-validation | Python |
+| [🕵️ secretlint](https://github.com/Diogo-Damasceno/secretlint) | Busca segredos vazados (API keys, tokens) em seus repositórios | Python |
+| [🔐 hashvault](https://github.com/Diogo-Damasceno/hashvault) | Hasher de senhas em Java (SHA-256) para testes autorizados | Java |
+| [🎣 phishforge](https://github.com/Diogo-Damasceno/phishforge) | Gera e pontua URLs de engenharia social para simulação própria | Python |
+| [🛰️ subdns-recon](https://github.com/Diogo-Damasceno/subdns-recon) | Reconhecimento de subdomínios via crt.sh (DNS autorizado) | Python |
+| [🔬 jsonmask](https://github.com/Diogo-Damasceno/jsonmask) | Anonimiza campos sensíveis em JSON (org.json) | Java |
+| [🧩 sqlinja](https://github.com/Diogo-Damasceno/sqlinja) | Forja/ofusca payloads SQLi para testes de input-validation | Python |
+| [📡 jportscan](https://github.com/Diogo-Damasceno/jportscan) | Scanner de portas TCP em Java (contra alvos próprios) | Java |
+| [🍯 iochunt](https://github.com/Diogo-Damasceno/iochunt) | Caça IOCs (IPs, hashes, domínios) em logs e relatórios | Python |
 
 > ⚠️ **Aviso ético:** todas as ferramentas são para fins **educacionais e defensivos**. Use apenas em sistemas próprios ou com autorização explícita.
 
