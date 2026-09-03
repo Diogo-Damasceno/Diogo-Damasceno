@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Diogo Damasceno 👋
 
-**Estudante de Engenharia de Software** · Cybersegurança (Blue Team) · IA & Agentes Autônomos · Linux
+**Estudante de Engenharia de Software** · Cybersegurança (Blue Team/Red Team) · IA & Agentes Autônomos · Linux
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
