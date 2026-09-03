@@ -26,7 +26,9 @@
 
 </div>
 
-> identity --verbose
+---
+
+## `> identity --verbose`
 
 <pre>
 name: Diogo Vinícius Abreu Damasceno
@@ -49,7 +51,7 @@ interests:
   - artificial intelligence and autonomous agents
 </pre>
 
-> systemctl status diogo.service
+## `> systemctl status diogo.service`
 
 <pre>
 ● diogo.service - Software Engineer in constant evolution
@@ -60,31 +62,26 @@ interests:
      Motto:  Build. Break. Understand. Rebuild better.
 </pre>
 
-🎓 Software Engineering undergraduate at UNICEPLAC.
+- 🎓 Software Engineering undergraduate at **UNICEPLAC**.
+- ⚙️ Working with backend development, infrastructure and automation at **Mants Company**.
+- 🐧 Daily-driving **Arch Linux**, while operating and hardening **Debian** servers.
+- ☸️ Building with **Docker**, **Kubernetes/k3s**, CI/CD and observability.
+- 🔐 Expanding into application security, offensive security and DevSecOps.
+- 🤖 Exploring AI agents, intelligent automation and developer tooling.
 
-⚙️ Working with backend development, infrastructure and automation at Mants Company.
-
-🐧 Daily-driving Arch Linux, while operating and hardening Debian servers.
-
-☸️ Building with Docker, Kubernetes/k3s, CI/CD and observability.
-
-🔐 Expanding into application security, offensive security and DevSecOps.
-
-🤖 Exploring AI agents, intelligent automation and developer tooling.
-
-> ls -la ./arsenal
+## `> ls -la ./arsenal`
 
 <div align="center">
 
-Languages & Backend
+### Languages & Backend
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,nestjs,spring&theme=dark" alt="Python, Java, JavaScript, TypeScript, Node.js, NestJS and Spring" />
 
-Infrastructure & DevOps
+### Infrastructure & DevOps
 
 <img src="https://skillicons.dev/icons?i=linux,arch,debian,bash,docker,kubernetes,githubactions,nginx&theme=dark" alt="Linux, Arch, Debian, Bash, Docker, Kubernetes, GitHub Actions and Nginx" />
 
-Data, Observability & Web
+### Data, Observability & Web
 
 <img src="https://skillicons.dev/icons?i=postgres,redis,prisma,grafana,prometheus,nextjs,angular,git&theme=dark" alt="PostgreSQL, Redis, Prisma, Grafana, Prometheus, Next.js, Angular and Git" />
 
@@ -95,41 +92,19 @@ Data, Observability & Web
 
 <br>
 
-Domain
-
-Technologies
-
-Backend
-
-Python, Java, TypeScript, JavaScript, Node.js, NestJS, Spring Boot, REST APIs, JWT
-
-Infrastructure
-
-Linux, Debian, Arch Linux, Bash, Docker, Docker Compose, Kubernetes, k3s, Nginx
-
-Data & messaging
-
-PostgreSQL, Redis, RabbitMQ, Prisma, MinIO/S3
-
-Delivery & networking
-
-GitHub Actions, Tailscale, PXE, nftables
-
-Observability
-
-Prometheus, Grafana, Loki, OpenTelemetry
-
-Security
-
-OWASP practices, system hardening, SIEM/HIDS concepts, TLS auditing
-
-Frontend
-
-Next.js, Angular, browser extensions
+| Domain | Technologies |
+| --- | --- |
+| Backend | Python, Java, TypeScript, JavaScript, Node.js, NestJS, Spring Boot, REST APIs, JWT |
+| Infrastructure | Linux, Debian, Arch Linux, Bash, Docker, Docker Compose, Kubernetes, k3s, Nginx |
+| Data & messaging | PostgreSQL, Redis, RabbitMQ, Prisma, MinIO/S3 |
+| Delivery & networking | GitHub Actions, Tailscale, PXE, nftables |
+| Observability | Prometheus, Grafana, Loki, OpenTelemetry |
+| Security | OWASP practices, system hardening, SIEM/HIDS concepts, TLS auditing |
+| Frontend | Next.js, Angular, browser extensions |
 
 </details>
 
-> cat ./featured-projects.log
+## `> cat ./featured-projects.log`
 
 <table>
   <tr>
@@ -169,7 +144,7 @@ Next.js, Angular, browser extensions
   </tr>
 </table>
 
-> tail -f /var/log/current-mission.log
+## `> tail -f /var/log/current-mission.log`
 
 <pre>
 [BUILDING]  Backend services and automation for real-world operations
@@ -179,18 +154,21 @@ Next.js, Angular, browser extensions
 [IMPROVING] System design, cloud-native architecture and technical English
 </pre>
 
-> github --analytics
+## `> github --analytics`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Diogo-Damasceno&show_icons=true&hide_border=true&bg_color=050505&title_color=ff173d&icon_color=b30018&text_color=c9d1d9&ring_color=ff173d" alt="Diogo's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Damasceno&layout=compact&hide_border=true&bg_color=050505&title_color=ff173d&text_color=c9d1d9" alt="Most used languages" />
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diogo-Damasceno&theme=dark&bg_color=050505&title_color=ff173d&text_color=c9d1d9&border_color=250008&icon_color=ff173d&chart_color=b30018&animation=draw" alt="Diogo's GitHub profile details" />
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Diogo-Damasceno&bg_color=050505&color=d0d0d0&line=ff173d&point=ffffff&area=true&area_color=780014&hide_border=true" alt="GitHub contribution activity graph" />
+<br>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diogo-Damasceno&theme=dark&bg_color=050505&title_color=ff173d&text_color=c9d1d9&border_color=250008&icon_color=ff173d&hide_logo=true" alt="Diogo's GitHub statistics" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diogo-Damasceno&theme=dark&bg_color=050505&title_color=ff173d&text_color=c9d1d9&border_color=250008&icon_color=ff173d&chart_color=b30018" alt="Languages used across Diogo's repositories" />
 
 </div>
 
-> ./connect.sh
+## `> ./connect.sh`
 
 <pre>
 gh repo list Diogo-Damasceno --source --limit 100
@@ -200,7 +178,7 @@ cd study-roadmap &amp;&amp; ./build --secure --reliable
 
 <div align="center">
 
-Open to connecting with developers, security enthusiasts and people building ambitious technology.
+**Open to connecting with developers, security enthusiasts and people building ambitious technology.**
 
 <a href="https://www.linkedin.com/in/diogo-damasceno">
   <img src="https://img.shields.io/badge/LET'S_CONNECT-FF173D?style=for-the-badge&logo=linkedin&logoColor=050505" alt="Connect on LinkedIn" />
