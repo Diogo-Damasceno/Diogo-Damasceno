@@ -19,12 +19,16 @@
 <a href="https://www.linkedin.com/in/diogo-damasceno">
   <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=FF173D" alt="LinkedIn" />
 </a>
+<a href="https://diogo-damasceno.github.io/projview/">
+  <img src="https://img.shields.io/badge/Access_Portfolio-050505?style=for-the-badge&logo=firefoxbrowser&logoColor=FF173D" alt="Access portfolio" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=Diogo-Damasceno&style=for-the-badge&color=b30018&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 > identity --verbose
 
+<pre>
 name: Diogo Vinícius Abreu Damasceno
 location: Brasília, DF — Brazil
 education: Software Engineering @ UNICEPLAC
@@ -43,15 +47,18 @@ interests:
   - DevOps and cloud-native infrastructure
   - cybersecurity and secure development
   - artificial intelligence and autonomous agents
+</pre>
 
 > systemctl status diogo.service
 
+<pre>
 ● diogo.service - Software Engineer in constant evolution
      Loaded: loaded (/etc/systemd/system/diogo.service; enabled)
      Active: active (running)
      Focus:  Backend • DevOps • Infrastructure • Security • AI
      Shell:  Arch Linux + Hyprland + Zsh
      Motto:  Build. Break. Understand. Rebuild better.
+</pre>
 
 🎓 Software Engineering undergraduate at UNICEPLAC.
 
@@ -126,6 +133,14 @@ Next.js, Angular, browser extensions
 
 <table>
   <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>🩸 Projview — Automated Developer Portfolio</h3>
+      <p>A Python-powered portfolio generator that inspects repositories and test suites, extracts project structures and produces a static visual showcase with SVG diagrams.</p>
+      <p><code>Python</code> <code>Code Analysis</code> <code>SVG</code> <code>GitHub Pages</code> <code>Automation</code></p>
+      <a href="https://diogo-damasceno.github.io/projview/"><strong>Access live portfolio →</strong></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧠 Mants Brand Orchestrator</h3>
       <p>Brand-aware AI platform and browser extension designed to generate consistent visual content from logos, typography and brand colors.</p>
@@ -156,11 +171,13 @@ Next.js, Angular, browser extensions
 
 > tail -f /var/log/current-mission.log
 
+<pre>
 [BUILDING]  Backend services and automation for real-world operations
 [RUNNING]   Debian + k3s infrastructure and observability experiments
 [LEARNING]  DevSecOps, application security and offensive security
 [EXPLORING] AI agents, LLM tooling and intelligent developer workflows
 [IMPROVING] System design, cloud-native architecture and technical English
+</pre>
 
 > github --analytics
 
@@ -175,9 +192,11 @@ Next.js, Angular, browser extensions
 
 > ./connect.sh
 
+<pre>
 gh repo list Diogo-Damasceno --source --limit 100
 gh repo clone Diogo-Damasceno/study-roadmap
-cd study-roadmap && ./build --secure --reliable
+cd study-roadmap &amp;&amp; ./build --secure --reliable
+</pre>
 
 <div align="center">
 
