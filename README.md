@@ -1,82 +1,196 @@
+<!--
+  Profile README for github.com/Diogo-Damasceno
+  Visual direction: BlackArch / dark red / terminal
+-->
+
 <div align="center">
 
-# Olá, eu sou o Diogo Damasceno 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:250008,100:b30018&text=DIOGO%20DAMASCENO&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=BACKEND%20%E2%80%A2%20DEVOPS%20%E2%80%A2%20LINUX%20%E2%80%A2%20CYBERSECURITY&descAlignY=58&descSize=14&animation=fadeIn" alt="Diogo Damasceno — Backend, DevOps, Linux and Cybersecurity" />
 
-**Estudante de Engenharia de Software** · Cybersegurança (Blue Team/Red Team) · IA & Agentes Autônomos · Linux
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=FF173D&center=true&vCenter=true&width=760&lines=%24+whoami;%3E+Software+Engineering+student;%3E+Backend+%26+DevOps+developer;%3E+Building+secure+systems+and+automation;%5B+STATUS%3A+ONLINE+%5D+%5B+ACCESS%3A+ROOT+%5D" alt="Terminal introduction" />
+</a>
 
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![Defensive Security](https://img.shields.io/badge/Segurança-Defensiva-red?style=flat&logo=hackthebox&logoColor=white)](#-portfólio-de-cybersegurança)
-[![AI Agents](https://img.shields.io/badge/IA-Agentes_Autônomos-purple?style=flat&logo=openai&logoColor=white)](#-sobre-mim)
-[![Profile views](https://komarev.com/ghpvc/?username=Diogo-Damasceno&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Diogo-Damasceno)
+<br>
+
+<a href="https://github.com/Diogo-Damasceno">
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FF173D" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/diogo-damasceno">
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=FF173D" alt="LinkedIn" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Diogo-Damasceno&style=for-the-badge&color=b30018&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-> ## 🌐 PORTFÓLIO COMPLETO: https://diogo-damasceno.github.io/projview/
-> Todos os meus projetos com **testes ao vivo**, **explicação** e **diagrama de algoritmo** — num só site.
->
-> [![Ver site](https://img.shields.io/badge/GitHub%20Pages-ver%20portfólio-blue?style=for-the-badge)](https://diogo-damasceno.github.io/projview/)
+> identity --verbose
 
----
+name: Diogo Vinícius Abreu Damasceno
+location: Brasília, DF — Brazil
+education: Software Engineering @ UNICEPLAC
+role: Backend & DevOps Developer
+company: Mants Company
 
-## 🧑‍💻 Sobre mim
+current_mission:
+  - build reliable backend systems
+  - automate infrastructure and delivery
+  - deepen my knowledge of cybersecurity
+  - turn complex ideas into working software
 
-Estudo engenharia de software com foco em **cybersegurança defensiva**, **inteligência artificial** e **automação em Linux**. Gosto de construir ferramentas do zero para entender como as coisas funcionam por dentro — de scanners de rede a plataformas de threat intelligence.
+interests:
+  - Linux and open source
+  - backend engineering
+  - DevOps and cloud-native infrastructure
+  - cybersecurity and secure development
+  - artificial intelligence and autonomous agents
 
-- 🛡️ Construindo um portfólio de ferramentas de segurança em Python
-- 🤖 Explorando agentes autônomos de IA aplicados à segurança
-- 🐧 Usuário de Arch Linux + Hyprland
-- 🌱 Sempre aprendendo: do baixo nível (bytes, `/proc`) ao alto nível (IA)
+> systemctl status diogo.service
 
----
+● diogo.service - Software Engineer in constant evolution
+     Loaded: loaded (/etc/systemd/system/diogo.service; enabled)
+     Active: active (running)
+     Focus:  Backend • DevOps • Infrastructure • Security • AI
+     Shell:  Arch Linux + Hyprland + Zsh
+     Motto:  Build. Break. Understand. Rebuild better.
 
-## 🔐 Portfólio de Cybersegurança
+🎓 Software Engineering undergraduate at UNICEPLAC.
 
-Suíte de ferramentas de segurança construídas do zero, cada uma com testes automatizados e documentação. Juntas formam a base de uma plataforma de defesa modular.
+⚙️ Working with backend development, infrastructure and automation at Mants Company.
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [🧬 warden-codec](https://github.com/Diogo-Damasceno/warden-codec) | Codifica/decodifica payloads em base64/hex/url para análise segura | Python |
-| [⚡ xssmith](https://github.com/Diogo-Damasceno/xssmith) | Forja/ofusca payloads XSS para testes de WAF/input-validation | Python |
-| [🕵️ secretlint](https://github.com/Diogo-Damasceno/secretlint) | Busca segredos vazados (API keys, tokens) em seus repositórios | Python |
-| [🔐 hashvault](https://github.com/Diogo-Damasceno/hashvault) | Hasher de senhas em Java (SHA-256) para testes autorizados | Java |
-| [🎣 phishforge](https://github.com/Diogo-Damasceno/phishforge) | Gera e pontua URLs de engenharia social para simulação própria | Python |
-| [🛰️ subdns-recon](https://github.com/Diogo-Damasceno/subdns-recon) | Reconhecimento de subdomínios via crt.sh (DNS autorizado) | Python |
-| [🔬 jsonmask](https://github.com/Diogo-Damasceno/jsonmask) | Anonimiza campos sensíveis em JSON (org.json) | Java |
-| [🧩 sqlinja](https://github.com/Diogo-Damasceno/sqlinja) | Forja/ofusca payloads SQLi para testes de input-validation | Python |
-| [📡 jportscan](https://github.com/Diogo-Damasceno/jportscan) | Scanner de portas TCP em Java (contra alvos próprios) | Java |
-| [🍯 iochunt](https://github.com/Diogo-Damasceno/iochunt) | Caça IOCs (IPs, hashes, domínios) em logs e relatórios | Python |
+🐧 Daily-driving Arch Linux, while operating and hardening Debian servers.
 
-> ⚠️ **Aviso ético:** todas as ferramentas são para fins **educacionais e defensivos**. Use apenas em sistemas próprios ou com autorização explícita.
+☸️ Building with Docker, Kubernetes/k3s, CI/CD and observability.
 
----
+🔐 Expanding into application security, offensive security and DevSecOps.
 
-## 🛠️ Tecnologias
+🤖 Exploring AI agents, intelligent automation and developer tooling.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
+> ls -la ./arsenal
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Diogo-Damasceno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Damasceno&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+Languages & Backend
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,nestjs,spring&theme=dark" alt="Python, Java, JavaScript, TypeScript, Node.js, NestJS and Spring" />
+
+Infrastructure & DevOps
+
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,bash,docker,kubernetes,githubactions,nginx&theme=dark" alt="Linux, Arch, Debian, Bash, Docker, Kubernetes, GitHub Actions and Nginx" />
+
+Data, Observability & Web
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,prisma,grafana,prometheus,nextjs,angular,git&theme=dark" alt="PostgreSQL, Redis, Prisma, Grafana, Prometheus, Next.js, Angular and Git" />
+
 </div>
 
+<details>
+<summary><strong>Full technical arsenal</strong></summary>
+
+<br>
+
+Domain
+
+Technologies
+
+Backend
+
+Python, Java, TypeScript, JavaScript, Node.js, NestJS, Spring Boot, REST APIs, JWT
+
+Infrastructure
+
+Linux, Debian, Arch Linux, Bash, Docker, Docker Compose, Kubernetes, k3s, Nginx
+
+Data & messaging
+
+PostgreSQL, Redis, RabbitMQ, Prisma, MinIO/S3
+
+Delivery & networking
+
+GitHub Actions, Tailscale, PXE, nftables
+
+Observability
+
+Prometheus, Grafana, Loki, OpenTelemetry
+
+Security
+
+OWASP practices, system hardening, SIEM/HIDS concepts, TLS auditing
+
+Frontend
+
+Next.js, Angular, browser extensions
+
+</details>
+
+> cat ./featured-projects.log
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Mants Brand Orchestrator</h3>
+      <p>Brand-aware AI platform and browser extension designed to generate consistent visual content from logos, typography and brand colors.</p>
+      <p><code>TypeScript</code> <code>AI</code> <code>Browser Extension</code> <code>Automation</code></p>
+      <a href="https://github.com/Diogo-Damasceno/mants-brand-orchestrator">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ Study Roadmap</h3>
+      <p>An interactive platform for organizing technical learning paths and turning long-term goals into structured progress.</p>
+      <p><code>Web</code> <code>Roadmaps</code> <code>Developer Education</code></p>
+      <a href="https://github.com/Diogo-Damasceno/study-roadmap">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☸️ Kubernetes Home Lab</h3>
+      <p>A Debian-based single-node k3s environment with container orchestration, ingress, databases, messaging, object storage, observability and tested recovery routines.</p>
+      <p><code>Debian</code> <code>k3s</code> <code>Docker</code> <code>PostgreSQL</code> <code>Redis</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Cybersecurity Labs</h3>
+      <p>A growing collection of security tools, controlled experiments, CTF studies and write-ups built mainly with Python and Java.</p>
+      <p><code>Python</code> <code>Java</code> <code>Linux</code> <code>Security Research</code></p>
+      <a href="https://github.com/Diogo-Damasceno?tab=repositories">Explore repositories →</a>
+    </td>
+  </tr>
+</table>
+
+> tail -f /var/log/current-mission.log
+
+[BUILDING]  Backend services and automation for real-world operations
+[RUNNING]   Debian + k3s infrastructure and observability experiments
+[LEARNING]  DevSecOps, application security and offensive security
+[EXPLORING] AI agents, LLM tooling and intelligent developer workflows
+[IMPROVING] System design, cloud-native architecture and technical English
+
+> github --analytics
+
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Diogo-Damasceno&theme=tokyonight" alt="GitHub Streak" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Diogo-Damasceno&show_icons=true&hide_border=true&bg_color=050505&title_color=ff173d&icon_color=b30018&text_color=c9d1d9&ring_color=ff173d" alt="Diogo's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Damasceno&layout=compact&hide_border=true&bg_color=050505&title_color=ff173d&text_color=c9d1d9" alt="Most used languages" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Diogo-Damasceno&bg_color=050505&color=d0d0d0&line=ff173d&point=ffffff&area=true&area_color=780014&hide_border=true" alt="GitHub contribution activity graph" />
+
 </div>
 
----
+> ./connect.sh
+
+gh repo list Diogo-Damasceno --source --limit 100
+gh repo clone Diogo-Damasceno/study-roadmap
+cd study-roadmap && ./build --secure --reliable
 
 <div align="center">
-  <i>“Para defender, primeiro é preciso entender como se ataca.”</i>
+
+Open to connecting with developers, security enthusiasts and people building ambitious technology.
+
+<a href="https://www.linkedin.com/in/diogo-damasceno">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-FF173D?style=for-the-badge&logo=linkedin&logoColor=050505" alt="Connect on LinkedIn" />
+</a>
+
+<br><br>
+
+<code>[ EOF ] — THE SYSTEM NEVER STOPS LEARNING</code>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:b30018,55:250008,100:050505" alt="Red and black footer" />
+
 </div>
