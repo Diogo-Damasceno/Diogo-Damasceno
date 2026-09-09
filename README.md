@@ -35,7 +35,7 @@ name: Diogo Vinícius Abreu Damasceno
 location: Brasília, DF — Brazil
 education: Software Engineering @ UNICEPLAC
 role: Backend & DevOps Developer
-company: Mants Company
+company: none
 
 current_mission:
   - build reliable backend systems
