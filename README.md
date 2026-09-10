@@ -22,7 +22,6 @@
 <a href="https://diogo-damasceno.github.io/projview/">
   <img src="https://img.shields.io/badge/Access_Portfolio-050505?style=for-the-badge&logo=firefoxbrowser&logoColor=FF173D" alt="Access portfolio" />
 </a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Diogo-Damasceno.Diogo-Damasceno&left_text=PROFILE%20VIEWS&left_color=%23050505&right_color=%23b30018" alt="Profile views" />
 
 </div>
 
